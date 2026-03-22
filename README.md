@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.vercel.app">
+  <a href="https://sriamshreddy000.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-39FF14?style=for-the-badge"/>
@@ -47,7 +47,7 @@
 
 ## 🤝 Connect
 <p>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/sriamshreddy-enugu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:enugusy@mail.uc.edu">
