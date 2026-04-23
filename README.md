@@ -51,7 +51,7 @@
 ##  What I Work On
 - Full-stack product development (React + Spring Boot / Node)
 - Backend systems & API design (auth, RBAC, workflows)
-- Cloud-native infrastructure & CI/CD pipelines
+- Cloud-native infrastructure & CI/CD Pipelines
 - Real-time systems (WebSockets, chat, state handling)
 - Applied ML pipelines (NLP, sentiment analysis, entity extraction)
 
