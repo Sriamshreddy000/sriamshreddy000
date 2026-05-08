@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://sriamshreddy000.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=flat&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-https://sriamshreddy000.github.io/Portfolio/-0A0A0A?style=flat&logo=vercel&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-39FF14?style=flat"/>
 </p>
